@@ -1,0 +1,28 @@
+*/
+Project Name: Hands-On Exercises 6.1-6.3
+Author: Jasmine Billips
+Date Last Modified: May 3, 2019
+/*
+
+1. #questionone {
+float:left;
+background-color: #EDE1D1;
+font-family: Verdana, sans-serif;
+font size: 1.15em;
+padding: 20px;
+}
+
+2. h1.dotted {
+border-bottom: 1px dashed #999;
+text decoration: none;
+color: #CB92E9;
+border-color: #000000;
+)
+
+3. #questionthree {
+background-color: #D3D3D3;
+position: absolute; 
+right: 40px;
+top: 20px;
+border-style: 1px solid #000000;
+}
